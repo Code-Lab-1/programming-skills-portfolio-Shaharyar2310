@@ -9,7 +9,7 @@ if 'apple' in Favourite_Fruits:
   print("you really like Apples")
 if 'banana' in Favourite_Fruits:
   print("you really like Bananas")
-if 'waterMelon' in Favourite_Fruits:
+if 'watermelon' in Favourite_Fruits:
   print("you really like WaterMelon")
 if 'orange' in Favourite_Fruits:
   print("you really like Oranges")
