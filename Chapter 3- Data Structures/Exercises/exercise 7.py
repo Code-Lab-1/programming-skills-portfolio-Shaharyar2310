@@ -1,0 +1,15 @@
+##exercise No. 7
+places = ["Machu Picchu", "Peru","The Grand Canyon","Colosseum,Amalfi","Angkor Wat","Pyramids of Giza"]
+print("original :" ,places)
+A = sorted(places)
+print(A)
+print("original :" ,places)
+B = sorted(A, reverse=True)
+print(B)
+C = sorted(B, reverse=False)
+print(C)
+print("original :" ,places)
+places.sort(reverse=False)
+print(places)
+places.sort(reverse=True)
+print(places)
