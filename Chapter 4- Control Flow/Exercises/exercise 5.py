@@ -1,6 +1,6 @@
 ##Exercise No.5
 Favourite_Fruits=[]
-n = int(input("Fuits you love : "))
+n = int(input("Number of fuits you love : "))
 for i in range(0,n):
   List = str(input())
   Favourite_Fruits.append(List)
