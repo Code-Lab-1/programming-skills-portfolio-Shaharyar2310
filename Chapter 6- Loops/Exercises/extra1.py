@@ -1,6 +1,6 @@
 #extra 1
 numbers=[]
-n = int(input("enter numbers : "))
+n = int(input("Enter the amount of numbers oyu want ot add : "))
 for i in range(0,n):
   n = int(input("Enter number : "))
   numbers.append(n)

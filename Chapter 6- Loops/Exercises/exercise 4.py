@@ -12,5 +12,5 @@ while True:
     finihed_sandwich_orders.insert(0,sandwich_orders[0])
     sandwich_orders.pop(0)
 
-print("finished orders : ",sandwich_orders)
+print("left orders : ",sandwich_orders)
 print("finished orders : ",finihed_sandwich_orders)
