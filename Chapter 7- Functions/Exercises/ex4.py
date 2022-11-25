@@ -4,7 +4,9 @@ def make_shirt(size,message):
 A = "L"
 B = "I love python"
 C = "M"
+
 make_shirt(A,B)
+
 make_shirt(A,C)
 Tsize = str(input("enter your size here : "))
 msg = str(input("enter message here : "))
